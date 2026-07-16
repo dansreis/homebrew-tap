@@ -1,6 +1,6 @@
 cask "speclens" do
-  version "1.1.3"
-  sha256 "6d3b635dbdddb9b63e81b15ef2e0ab6ff5de678cf8fd5bd69398ae07187b52a7"
+  version "1.2.0"
+  sha256 "efe048d72ea23cd390970039b53c4c11873947830f8753fda1b2e5e99f09d158"
 
   url "https://github.com/dansreis/speclens/releases/download/v#{version}/SpecLens_#{version}_aarch64.dmg"
   name "SpecLens"
